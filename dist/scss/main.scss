@@ -12,6 +12,7 @@ $darkgrey: #2E2727;
 $lightGrey: #EBE8E0;
 $middleGrey: #767574;
 $yellow: #FFA216;
+$red: #f0392c;
 
 $bigRadius: .5rem;
 $smlRadius: .25rem;
@@ -72,6 +73,10 @@ body {
 
             &.dark {
                 background: $black;
+            }
+
+            &.red {
+                background: $red;
             }
             
         }
