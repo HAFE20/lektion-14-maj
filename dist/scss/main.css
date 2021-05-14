@@ -72,4 +72,8 @@ body main button.operator {
 body main button.dark {
   background: #000;
 }
+
+body main button.red {
+  background: #f0392c;
+}
 /*# sourceMappingURL=main.css.map */
